@@ -62,4 +62,10 @@ deployed (k8s) apps at different Google Cloud projects, your results may be wonk
 the same message, for instance).
 
 - Certain senders create long-lived connections upon startup. These senders _do not maintain those connections_, which
-means these senders tend to bomb out after 2-24 hours. 
+means these senders tend to bomb out after 2-24 hours.
+
+---
+
+# Contact Us
+
+[Telegram](https://t.me/bigdata5911)
